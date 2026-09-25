@@ -1,4 +1,4 @@
-# Stein Labs
+# Stein Loader
 
 **Minecraft 1.8.9 on Java 25 and LWJGL 3.** The game keeps its 1.8.9 rules and its look; what changed underneath
 is the engine it runs on. Nothing from Mojang is redistributed here: the installer patches the `1.8.9.jar` that is
@@ -44,4 +44,5 @@ next time they start the game — no new Loader release and no new installer.
 - **`news`** — a small balloon on the main menu: `id` (shown once per id), `title` and `text` (one string, or one
   entry per game language, with `en_US` as the fallback) and an optional `url`.
 
-Releases here are published by CI, and `latest` and `news` are written by it.
+Releases here are published by CI, and `latest` and `news` are written by it. The mods live in their own
+repositories, listed above; this one carries the installer and `stein.json`.
