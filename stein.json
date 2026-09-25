@@ -6,15 +6,15 @@
     "url": "https://github.com/x4vieer/stein-loader/releases/latest"
   },
   "news": {
-    "id": "loader-0.1.12",
+    "id": "combat-0.1.7",
     "title": {
-      "en_US": "The engine learned to hide entities",
-      "pt_BR": "O motor aprendeu a esconder entidades"
+      "en_US": "One key takes your allies off the screen",
+      "pt_BR": "Uma tecla faz os aliados sumirem da tela"
     },
     "text": {
-      "en_US": "An engine release: Stein Bridge got the hook a mod needs to take someone off the screen, which is what Combat 0.1.6 uses to hide allies. On its own it changes nothing you see — but the new Combat asks for it.",
-      "pt_BR": "Versão de motor: o Stein Bridge ganhou o gancho que permite a um mod tirar alguém da tela, que é o que o Combat 0.1.6 usa para esconder os aliados. Sozinha ela não muda nada do que você vê — mas é ela que o Combat novo pede."
+      "en_US": "Combat got a key that removes your clan and your allies from the screen, so you can see who is hitting you in the middle of a pile-up; press it again and everyone comes back.",
+      "pt_BR": "O Combat ganhou uma tecla que apaga da tela o seu clã e os seus aliados, para você enxergar quem está batendo no meio de um cerco; aperta de novo e todo mundo volta."
     },
-    "url": "https://github.com/x4vieer/stein-loader/releases/tag/v0.1.12"
+    "url": "https://github.com/x4vieer/stein-combat/releases/tag/v0.1.7"
   }
 }
