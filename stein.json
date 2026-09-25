@@ -6,15 +6,15 @@
     "url": "https://github.com/x4vieer/stein-loader/releases/latest"
   },
   "news": {
-    "id": "connect-0.1.4",
+    "id": "mouse-0.1.1",
     "title": {
-      "en_US": "Connect gets its own repository",
-      "pt_BR": "Connect com repositório próprio"
+      "en_US": "Mouse gestures in the inventory",
+      "pt_BR": "Gestos de mouse no inventário"
     },
     "text": {
-      "en_US": "First publication of Connect in its own repository. The mod itself has not changed since the previous version: what changed is the address, which is now fixed and only its own — the download link never points at something else when another mod ships.",
-      "pt_BR": "Primeira publicação do Connect no repositório dele. O mod não mudou desde a versão anterior: o que muda é o endereço, que agora é fixo e só dele — o link de download nunca mais aponta para outra coisa quando sai versão de outro mod."
+      "en_US": "First release of Mouse, now with its own repository. It brings to 1.8.9 the two Mouse Tweaks gestures that actually get used, written from scratch.",
+      "pt_BR": "Primeira versão do Mouse, agora com repositório próprio. Ele traz para o 1.8.9 os dois gestos do Mouse Tweaks que a gente usa de verdade, com código próprio."
     },
-    "url": "https://github.com/x4vieer/stein-connect/releases/tag/v0.1.4"
+    "url": "https://github.com/x4vieer/stein-mouse/releases/tag/v0.1.1"
   }
 }
