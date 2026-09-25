@@ -18,5 +18,47 @@
       "es_ES": "Nuevas versiones, soporte y dudas."
     },
     "url": "https://discord.gg/MEHE9b5bjj"
-  }
+  },
+  "mods": [
+    {
+      "id": "combat",
+      "name": "Combat",
+      "file": "Combat.steinmod",
+      "version": "0.1.7",
+      "url": "https://github.com/x4vieer/stein-combat/releases/download/v0.1.7/Combat.steinmod",
+      "sha256": "3852d082fb6c85f3d40327902aa5e129114506e9e728eb8980f31b3842c3ad28",
+      "loader": "0.1.9",
+      "description": "Aliados, clãs e esconder aliados na tela."
+    },
+    {
+      "id": "hud",
+      "name": "HUD",
+      "file": "HUD.steinmod",
+      "version": "0.1.5",
+      "url": "https://github.com/x4vieer/stein-hud/releases/download/v0.1.5/HUD.steinmod",
+      "sha256": "f0f4ec34dd0ff22339174cf2a7dacae306061400923ab8bde8a62da51ed66b17",
+      "loader": "0.1.9",
+      "description": "HUD personalizável, minimapa e lista de jogadores."
+    },
+    {
+      "id": "connect",
+      "name": "Connect",
+      "file": "Connect.steinmod",
+      "version": "0.1.4",
+      "url": "https://github.com/x4vieer/stein-connect/releases/download/v0.1.4/Connect.steinmod",
+      "sha256": "1d6aea9f05581fe3882a31889023b5a35d360b6fe844b817c6a67d539bad042e",
+      "loader": "0.1.9",
+      "description": "Contas, reconexão automática e proxy SOCKS5."
+    },
+    {
+      "id": "mouse",
+      "name": "Mouse",
+      "file": "Mouse.steinmod",
+      "version": "0.1.1",
+      "url": "https://github.com/x4vieer/stein-mouse/releases/download/v0.1.1/Mouse.steinmod",
+      "sha256": "2886c7ac7597c1f8a4090ee5f20773e7fe225144ded720d46831176c0c9c761c",
+      "loader": "0.1.9",
+      "description": "Gestos de mouse em inventários e baús."
+    }
+  ]
 }
