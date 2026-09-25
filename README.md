@@ -6,7 +6,7 @@ already on your machine, on your machine.
 
 ## Download
 
-**[Stein Loader — latest installer](https://github.com/x4vieer/stein-labs/releases/latest)** — one file that
+**[Stein Loader — latest installer](https://github.com/x4vieer/stein-loader/releases/latest)** — one file that
 carries its own Java 25, the engine and the loader. It is a `.jar`: double-click it (or `java -jar
 SteinLoader-Installer.jar`) with Java 17 or newer. No Java at all? Take `SteinLoader-Installer-windows.zip` from
 the same release, unzip it and run the `.exe` inside.
