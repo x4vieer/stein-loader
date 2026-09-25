@@ -22,6 +22,7 @@
   "mods": [
     {
       "id": "combat",
+      "modId": "steincombat",
       "name": "Combat",
       "file": "Combat.steinmod",
       "version": "0.1.7",
@@ -32,6 +33,7 @@
     },
     {
       "id": "hud",
+      "modId": "steinhud",
       "name": "HUD",
       "file": "HUD.steinmod",
       "version": "0.1.5",
@@ -42,6 +44,7 @@
     },
     {
       "id": "connect",
+      "modId": "steinconnect",
       "name": "Connect",
       "file": "Connect.steinmod",
       "version": "0.1.4",
@@ -52,6 +55,7 @@
     },
     {
       "id": "mouse",
+      "modId": "steinmouse",
       "name": "Mouse",
       "file": "Mouse.steinmod",
       "version": "0.1.1",
