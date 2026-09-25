@@ -8,14 +8,14 @@
   "news": {
     "id": "discord",
     "title": {
-      "pt_BR": "Junte-se ao Discord do Stein Labs",
-      "en_US": "Join the Stein Labs Discord",
-      "es_ES": "Únete al Discord de Stein Labs"
+      "pt_BR": "Junte-se ao Discord",
+      "en_US": "Join the Discord",
+      "es_ES": "Únete al Discord"
     },
     "text": {
-      "pt_BR": "É lá que saem as versões novas, os avisos e o suporte. Clique aqui para entrar.",
-      "en_US": "New versions, announcements and support are posted there. Click here to join.",
-      "es_ES": "Allí salen las versiones nuevas, los avisos y el soporte. Haz clic aquí para entrar."
+      "pt_BR": "Novas versões, suporte e dúvidas.",
+      "en_US": "New versions, support and questions.",
+      "es_ES": "Nuevas versiones, soporte y dudas."
     },
     "url": "https://discord.gg/MEHE9b5bjj"
   }
