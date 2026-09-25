@@ -6,15 +6,17 @@
     "url": "https://github.com/x4vieer/stein-loader/releases/latest"
   },
   "news": {
-    "id": "loader-0.1.13",
+    "id": "discord",
     "title": {
-      "en_US": "The installer opens with the Java you already have",
-      "pt_BR": "O instalador abre no Java que você já tem"
+      "pt_BR": "Junte-se ao Discord do Stein Labs",
+      "en_US": "Join the Stein Labs Discord",
+      "es_ES": "Únete al Discord de Stein Labs"
     },
     "text": {
-      "en_US": "People who play 1.8.9 through an alternative launcher open that launcher by double-clicking a `.jar` — and the Java doing that is usually Java 8. The installer asked for 17, so for exactly those people the file would not open. Now it does.",
-      "pt_BR": "Quem joga 1.8.9 por launcher alternativo abre o launcher com clique duplo num `.jar` — e o Java que faz isso costuma ser o 8. O instalador pedia o 17, então justamente para esse público o arquivo não abria. Agora abre."
+      "pt_BR": "É lá que saem as versões novas, os avisos e o suporte. Clique aqui para entrar.",
+      "en_US": "New versions, announcements and support are posted there. Click here to join.",
+      "es_ES": "Allí salen las versiones nuevas, los avisos y el soporte. Haz clic aquí para entrar."
     },
-    "url": "https://github.com/x4vieer/stein-loader/releases/tag/v0.1.13"
+    "url": "https://discord.gg/MEHE9b5bjj"
   }
 }
