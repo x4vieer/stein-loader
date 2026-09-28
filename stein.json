@@ -58,11 +58,11 @@
       "modId": "steincombat",
       "name": "Combat",
       "file": "Combat.steinmod",
-      "version": "0.1.11",
-      "url": "https://github.com/x4vieer/stein-combat/releases/download/v0.1.11/Combat.steinmod",
-      "sha256": "d44796f51c3f34abb6d211799a0263003e9159b1d3aa5b0192b4b6558bddefd6",
-      "loader": "0.1.13",
-      "description": "Aliados e inimigos (por nick, clã ou URL) e esconder o meu clã na tela."
+      "version": "0.1.12",
+      "url": "https://github.com/x4vieer/stein-combat/releases/download/v0.1.12/Combat.steinmod",
+      "sha256": "216c4522d09f7e05a23879005d540e0844ffd445845fdafae3049a5138210ae4",
+      "loader": "0.1.14",
+      "description": "Aliados e inimigos por nick, clã ou URL; esconder o meu clã na tela."
     }
   ]
 }
