@@ -21,17 +21,6 @@
   },
   "mods": [
     {
-      "id": "combat",
-      "modId": "steincombat",
-      "name": "Combat",
-      "file": "Combat.steinmod",
-      "version": "0.1.12",
-      "url": "https://github.com/x4vieer/stein-combat/releases/download/v0.1.12/Combat.steinmod",
-      "sha256": "216c4522d09f7e05a23879005d540e0844ffd445845fdafae3049a5138210ae4",
-      "loader": "0.1.14",
-      "description": "Aliados e inimigos por nick, clã ou URL; esconder o meu clã na tela."
-    },
-    {
       "id": "hud",
       "modId": "steinhud",
       "name": "HUD",
@@ -63,6 +52,17 @@
       "sha256": "d019aab076378b88321aa6308343c07c3470bef9f22554d7bf13689b4934e2d1",
       "loader": "0.1.14",
       "description": "Gestos de mouse em inventários e baús."
+    },
+    {
+      "id": "combat",
+      "modId": "steincombat",
+      "name": "Combat",
+      "file": "Combat.steinmod",
+      "version": "0.1.13",
+      "url": "https://github.com/x4vieer/stein-combat/releases/download/v0.1.13/Combat.steinmod",
+      "sha256": "8da214a7cc6321c8ca8086a73043d945cf55862cc592b6fa9ea953d5d8064fdc",
+      "loader": "0.1.16",
+      "description": "Aliados e inimigos por nick, clã ou URL; esconder o meu clã na tela."
     }
   ]
 }
