@@ -21,17 +21,6 @@
   },
   "mods": [
     {
-      "id": "hud",
-      "modId": "steinhud",
-      "name": "HUD",
-      "file": "HUD.steinmod",
-      "version": "0.1.6",
-      "url": "https://github.com/x4vieer/stein-hud/releases/download/v0.1.6/HUD.steinmod",
-      "sha256": "cd3bac07833237c75ddeb3d2f25cca7542ee002894892e5c122b694a039fb6ce",
-      "loader": "0.1.14",
-      "description": "HUD personalizável, minimapa e lista do Tab."
-    },
-    {
       "id": "connect",
       "modId": "steinconnect",
       "name": "Connect",
@@ -63,6 +52,17 @@
       "sha256": "8da214a7cc6321c8ca8086a73043d945cf55862cc592b6fa9ea953d5d8064fdc",
       "loader": "0.1.16",
       "description": "Aliados e inimigos por nick, clã ou URL; esconder o meu clã na tela."
+    },
+    {
+      "id": "hud",
+      "modId": "steinhud",
+      "name": "HUD",
+      "file": "HUD.steinmod",
+      "version": "0.1.7",
+      "url": "https://github.com/x4vieer/stein-hud/releases/download/v0.1.7/HUD.steinmod",
+      "sha256": "f233f5102c444c50d6ac2a31565bae8cdd9577eab6f11d20c8ae71265a49e359",
+      "loader": "0.1.16",
+      "description": "HUD personalizável, minimapa e lista do Tab."
     }
   ]
 }
