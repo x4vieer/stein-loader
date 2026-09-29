@@ -21,17 +21,6 @@
   },
   "mods": [
     {
-      "id": "connect",
-      "modId": "steinconnect",
-      "name": "Connect",
-      "file": "Connect.steinmod",
-      "version": "0.1.5",
-      "url": "https://github.com/x4vieer/stein-connect/releases/download/v0.1.5/Connect.steinmod",
-      "sha256": "57c0c95d801290ca7e0c3d0a7bf1e94a2ff597a4e3711986b21502757f27c59c",
-      "loader": "0.1.14",
-      "description": "Contas, reconexão automática e proxy SOCKS5."
-    },
-    {
       "id": "mouse",
       "modId": "steinmouse",
       "name": "Mouse",
@@ -63,6 +52,17 @@
       "sha256": "f233f5102c444c50d6ac2a31565bae8cdd9577eab6f11d20c8ae71265a49e359",
       "loader": "0.1.16",
       "description": "HUD personalizável, minimapa e lista do Tab."
+    },
+    {
+      "id": "connect",
+      "modId": "steinconnect",
+      "name": "Connect",
+      "file": "Connect.steinmod",
+      "version": "0.1.6",
+      "url": "https://github.com/x4vieer/stein-connect/releases/download/v0.1.6/Connect.steinmod",
+      "sha256": "9cf320fd73ad816ad2c8cf1ec91e1093f1618bc2feaef35715b8fd62960751c1",
+      "loader": "0.1.16",
+      "description": "Contas, reconexão automática e proxy SOCKS5."
     }
   ]
 }
