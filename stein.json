@@ -21,17 +21,6 @@
   },
   "mods": [
     {
-      "id": "mouse",
-      "modId": "steinmouse",
-      "name": "Mouse",
-      "file": "Mouse.steinmod",
-      "version": "0.1.2",
-      "url": "https://github.com/x4vieer/stein-mouse/releases/download/v0.1.2/Mouse.steinmod",
-      "sha256": "d019aab076378b88321aa6308343c07c3470bef9f22554d7bf13689b4934e2d1",
-      "loader": "0.1.14",
-      "description": "Gestos de mouse em inventários e baús."
-    },
-    {
       "id": "combat",
       "modId": "steincombat",
       "name": "Combat",
@@ -63,6 +52,17 @@
       "sha256": "9cf320fd73ad816ad2c8cf1ec91e1093f1618bc2feaef35715b8fd62960751c1",
       "loader": "0.1.16",
       "description": "Contas, reconexão automática e proxy SOCKS5."
+    },
+    {
+      "id": "mouse",
+      "modId": "steinmouse",
+      "name": "Mouse",
+      "file": "Mouse.steinmod",
+      "version": "0.1.3",
+      "url": "https://github.com/x4vieer/stein-mouse/releases/download/v0.1.3/Mouse.steinmod",
+      "sha256": "198dba0ccc5dc53e6a256ed2a59c37699d747f15ec55af217dd65447b107d44c",
+      "loader": "0.1.16",
+      "description": "Gestos de mouse em inventários e baús."
     }
   ]
 }
