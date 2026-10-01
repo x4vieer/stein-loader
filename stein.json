@@ -43,17 +43,6 @@
       "description": "Shift e arrastar para transferir itens em inventários e baús."
     },
     {
-      "id": "combat",
-      "modId": "steincombat",
-      "name": "Combat",
-      "file": "Combat.steinmod",
-      "version": "0.1.15",
-      "url": "https://github.com/x4vieer/stein-combat/releases/download/v0.1.15/Combat.steinmod",
-      "sha256": "9304a32b3977e8daf1165b4a26f794f4250ba5ad71e4beded16db237c221fd32",
-      "loader": "0.1.18",
-      "description": "Aliados e inimigos por nick, clã ou URL; esconder o meu clã na tela."
-    },
-    {
       "id": "hud",
       "modId": "steinhud",
       "name": "HUD",
@@ -63,6 +52,17 @@
       "sha256": "bd5ea332907431bc0397c456683285351f61d95ef48c10476082d0c7a30353dd",
       "loader": "0.1.18",
       "description": "HUD personalizável, minimapa e lista do Tab."
+    },
+    {
+      "id": "combat",
+      "modId": "steincombat",
+      "name": "Combat",
+      "file": "Combat.steinmod",
+      "version": "0.1.16",
+      "url": "https://github.com/x4vieer/stein-combat/releases/download/v0.1.16/Combat.steinmod",
+      "sha256": "69750d97f089e94dd17025a280414a2624aa414325740d8b8a5d04e17a4f83c3",
+      "loader": "0.1.19",
+      "description": "Aliados e inimigos por nick, clã ou URL; esconder o meu clã na tela."
     }
   ]
 }
