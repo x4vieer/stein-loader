@@ -93,6 +93,17 @@
         "sha256": "fa78053ad360c625279da7e185df628176cd2f23cf98e721499899f926c40365",
         "loader": "0.1.21",
         "description": "HUD personalizável, minimapa e lista do Tab."
+      },
+      {
+        "id": "connect",
+        "modId": "steinconnect",
+        "name": "Connect",
+        "file": "Connect.steinmod",
+        "version": "0.1.7-rc.1",
+        "url": "https://github.com/x4vieer/stein-connect/releases/download/v0.1.7-rc.1/Connect.steinmod",
+        "sha256": "facbcc3f2d623e87b7247fae0b047f10f152a4082f537c3f711e17c2343da537",
+        "loader": "0.1.16",
+        "description": "Contas, reconexão automática e proxy SOCKS5."
       }
     ]
   }
