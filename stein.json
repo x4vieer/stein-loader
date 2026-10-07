@@ -73,17 +73,6 @@
     },
     "mods": [
       {
-        "id": "connect",
-        "modId": "steinconnect",
-        "name": "Connect",
-        "file": "Connect.steinmod",
-        "version": "0.1.7-rc.1",
-        "url": "https://github.com/x4vieer/stein-connect/releases/download/v0.1.7-rc.1/Connect.steinmod",
-        "sha256": "facbcc3f2d623e87b7247fae0b047f10f152a4082f537c3f711e17c2343da537",
-        "loader": "0.1.16",
-        "description": "Contas, reconexão automática e proxy SOCKS5."
-      },
-      {
         "id": "keybind",
         "modId": "steinkeybind",
         "name": "Keybind",
@@ -126,6 +115,17 @@
         "sha256": "f7491bbafad79f975b7f8099c11dce1b5651eedc0ef9e90862139bf40c9a91f3",
         "loader": "0.1.21",
         "description": "HUD personalizável, minimapa e lista do Tab."
+      },
+      {
+        "id": "connect",
+        "modId": "steinconnect",
+        "name": "Connect",
+        "file": "Connect.steinmod",
+        "version": "0.1.7-rc.2",
+        "url": "https://github.com/x4vieer/stein-connect/releases/download/v0.1.7-rc.2/Connect.steinmod",
+        "sha256": "b42738e3c33deddf1876b7d9b7ddb409be791b20c373db5118b6fb12674c93fc",
+        "loader": "0.1.16",
+        "description": "Contas, reconexão automática e proxy SOCKS5."
       }
     ]
   }
