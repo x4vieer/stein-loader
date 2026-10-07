@@ -70,6 +70,19 @@
       "version": "0.1.28",
       "tag": "v0.1.28-rc.1",
       "url": "https://github.com/x4vieer/stein-loader/releases/tag/v0.1.28-rc.1"
-    }
+    },
+    "mods": [
+      {
+        "id": "combat",
+        "modId": "steincombat",
+        "name": "Combat",
+        "file": "Combat.steinmod",
+        "version": "0.1.18-rc.1",
+        "url": "https://github.com/x4vieer/stein-combat/releases/download/v0.1.18-rc.1/Combat.steinmod",
+        "sha256": "b5ba9de3dca45ebc863131761b297d3ec51cf6715f0d8670dcbbbb94764ca8bf",
+        "loader": "0.1.21",
+        "description": "Aliados e clãs, automações de armadura e efeitos, e movimentação para PvP."
+      }
+    ]
   }
 }
