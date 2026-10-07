@@ -73,17 +73,6 @@
     },
     "mods": [
       {
-        "id": "hud",
-        "modId": "steinhud",
-        "name": "HUD",
-        "file": "HUD.steinmod",
-        "version": "0.1.10-rc.1",
-        "url": "https://github.com/x4vieer/stein-hud/releases/download/v0.1.10-rc.1/HUD.steinmod",
-        "sha256": "fa78053ad360c625279da7e185df628176cd2f23cf98e721499899f926c40365",
-        "loader": "0.1.21",
-        "description": "HUD personalizável, minimapa e lista do Tab."
-      },
-      {
         "id": "connect",
         "modId": "steinconnect",
         "name": "Connect",
@@ -126,6 +115,17 @@
         "sha256": "2de824bb7f1e05c3582dfc0691909615ca8c61f73193598b112c83362df686aa",
         "loader": "0.1.22",
         "description": "Aliados e clãs, automações de armadura e efeitos, e movimentação para PvP."
+      },
+      {
+        "id": "hud",
+        "modId": "steinhud",
+        "name": "HUD",
+        "file": "HUD.steinmod",
+        "version": "0.1.10-rc.2",
+        "url": "https://github.com/x4vieer/stein-hud/releases/download/v0.1.10-rc.2/HUD.steinmod",
+        "sha256": "f7491bbafad79f975b7f8099c11dce1b5651eedc0ef9e90862139bf40c9a91f3",
+        "loader": "0.1.21",
+        "description": "HUD personalizável, minimapa e lista do Tab."
       }
     ]
   }
