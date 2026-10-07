@@ -82,6 +82,17 @@
         "sha256": "b5ba9de3dca45ebc863131761b297d3ec51cf6715f0d8670dcbbbb94764ca8bf",
         "loader": "0.1.21",
         "description": "Aliados e clãs, automações de armadura e efeitos, e movimentação para PvP."
+      },
+      {
+        "id": "hud",
+        "modId": "steinhud",
+        "name": "HUD",
+        "file": "HUD.steinmod",
+        "version": "0.1.10-rc.1",
+        "url": "https://github.com/x4vieer/stein-hud/releases/download/v0.1.10-rc.1/HUD.steinmod",
+        "sha256": "fa78053ad360c625279da7e185df628176cd2f23cf98e721499899f926c40365",
+        "loader": "0.1.21",
+        "description": "HUD personalizável, minimapa e lista do Tab."
       }
     ]
   }
