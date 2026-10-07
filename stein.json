@@ -73,17 +73,6 @@
     },
     "mods": [
       {
-        "id": "combat",
-        "modId": "steincombat",
-        "name": "Combat",
-        "file": "Combat.steinmod",
-        "version": "0.1.18-rc.1",
-        "url": "https://github.com/x4vieer/stein-combat/releases/download/v0.1.18-rc.1/Combat.steinmod",
-        "sha256": "b5ba9de3dca45ebc863131761b297d3ec51cf6715f0d8670dcbbbb94764ca8bf",
-        "loader": "0.1.21",
-        "description": "Aliados e clãs, automações de armadura e efeitos, e movimentação para PvP."
-      },
-      {
         "id": "hud",
         "modId": "steinhud",
         "name": "HUD",
@@ -126,6 +115,17 @@
         "sha256": "7749cac1855e1799335f073fb4ac7a592e0c5ea89b3d429fa9ce97fa310eb443",
         "loader": "0.1.21",
         "description": "Replay da morte: veja como você morreu antes de renascer."
+      },
+      {
+        "id": "combat",
+        "modId": "steincombat",
+        "name": "Combat",
+        "file": "Combat.steinmod",
+        "version": "0.1.18-rc.2",
+        "url": "https://github.com/x4vieer/stein-combat/releases/download/v0.1.18-rc.2/Combat.steinmod",
+        "sha256": "2de824bb7f1e05c3582dfc0691909615ca8c61f73193598b112c83362df686aa",
+        "loader": "0.1.22",
+        "description": "Aliados e clãs, automações de armadura e efeitos, e movimentação para PvP."
       }
     ]
   }
