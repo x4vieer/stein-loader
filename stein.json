@@ -73,17 +73,6 @@
     },
     "mods": [
       {
-        "id": "keybind",
-        "modId": "steinkeybind",
-        "name": "Keybind",
-        "file": "Keybind.steinmod",
-        "version": "0.1.0-rc.1",
-        "url": "https://github.com/x4vieer/stein-keybind/releases/download/v0.1.0-rc.1/Keybind.steinmod",
-        "sha256": "c71484b2ee03ba620c871da09abbaa8f335fdb0ba63e4bc4633d0b2e5b2eba83",
-        "loader": "0.1.20",
-        "description": "Mensagens e comandos numa tecla."
-      },
-      {
         "id": "replay",
         "modId": "steinreplay",
         "name": "Replay",
@@ -126,6 +115,17 @@
         "sha256": "b42738e3c33deddf1876b7d9b7ddb409be791b20c373db5118b6fb12674c93fc",
         "loader": "0.1.16",
         "description": "Contas, reconexão automática e proxy SOCKS5."
+      },
+      {
+        "id": "keybind",
+        "modId": "steinkeybind",
+        "name": "Keybind",
+        "file": "Keybind.steinmod",
+        "version": "0.1.0-rc.2",
+        "url": "https://github.com/x4vieer/stein-keybind/releases/download/v0.1.0-rc.2/Keybind.steinmod",
+        "sha256": "3926fd48267290879b1eded2de7b0fd1d10d99c4d26ca6cd46cf6dc31db52d29",
+        "loader": "0.1.20",
+        "description": "Mensagens e comandos numa tecla."
       }
     ]
   }
