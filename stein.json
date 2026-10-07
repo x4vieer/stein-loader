@@ -104,6 +104,17 @@
         "sha256": "facbcc3f2d623e87b7247fae0b047f10f152a4082f537c3f711e17c2343da537",
         "loader": "0.1.16",
         "description": "Contas, reconexão automática e proxy SOCKS5."
+      },
+      {
+        "id": "keybind",
+        "modId": "steinkeybind",
+        "name": "Keybind",
+        "file": "Keybind.steinmod",
+        "version": "0.1.0-rc.1",
+        "url": "https://github.com/x4vieer/stein-keybind/releases/download/v0.1.0-rc.1/Keybind.steinmod",
+        "sha256": "c71484b2ee03ba620c871da09abbaa8f335fdb0ba63e4bc4633d0b2e5b2eba83",
+        "loader": "0.1.20",
+        "description": "Mensagens e comandos numa tecla."
       }
     ]
   }
