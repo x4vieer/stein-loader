@@ -73,17 +73,6 @@
     },
     "mods": [
       {
-        "id": "replay",
-        "modId": "steinreplay",
-        "name": "Replay",
-        "file": "Replay.steinmod",
-        "version": "0.1.0-rc.1",
-        "url": "https://github.com/x4vieer/stein-replay/releases/download/v0.1.0-rc.1/Replay.steinmod",
-        "sha256": "7749cac1855e1799335f073fb4ac7a592e0c5ea89b3d429fa9ce97fa310eb443",
-        "loader": "0.1.21",
-        "description": "Replay da morte: veja como você morreu antes de renascer."
-      },
-      {
         "id": "combat",
         "modId": "steincombat",
         "name": "Combat",
@@ -126,6 +115,17 @@
         "sha256": "3926fd48267290879b1eded2de7b0fd1d10d99c4d26ca6cd46cf6dc31db52d29",
         "loader": "0.1.20",
         "description": "Mensagens e comandos numa tecla."
+      },
+      {
+        "id": "replay",
+        "modId": "steinreplay",
+        "name": "Replay",
+        "file": "Replay.steinmod",
+        "version": "0.1.0-rc.2",
+        "url": "https://github.com/x4vieer/stein-replay/releases/download/v0.1.0-rc.2/Replay.steinmod",
+        "sha256": "f863521bde083988116a6023e82329e07650277ba9563b654a2748e3c07bb4d7",
+        "loader": "0.1.21",
+        "description": "Replay da morte: veja como você morreu antes de renascer."
       }
     ]
   }
