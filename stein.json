@@ -43,17 +43,6 @@
       "description": "Shift e arrastar para transferir itens em inventários e baús."
     },
     {
-      "id": "hud",
-      "modId": "steinhud",
-      "name": "HUD",
-      "file": "HUD.steinmod",
-      "version": "0.1.9",
-      "url": "https://github.com/x4vieer/stein-hud/releases/download/v0.1.9/HUD.steinmod",
-      "sha256": "bd5ea332907431bc0397c456683285351f61d95ef48c10476082d0c7a30353dd",
-      "loader": "0.1.18",
-      "description": "HUD personalizável, minimapa e lista do Tab."
-    },
-    {
       "id": "combat",
       "modId": "steincombat",
       "name": "Combat",
@@ -63,21 +52,21 @@
       "sha256": "ad0477184231d5c1edb15b5ea37f5496474d55cda202074557f9355620766ec3",
       "loader": "0.1.22",
       "description": "Aliados e clãs, automações de armadura e efeitos, e movimentação para PvP."
+    },
+    {
+      "id": "hud",
+      "modId": "steinhud",
+      "name": "HUD",
+      "file": "HUD.steinmod",
+      "version": "0.1.10",
+      "url": "https://github.com/x4vieer/stein-hud/releases/download/v0.1.10/HUD.steinmod",
+      "sha256": "e28fc4f7f7b39cb916d524db358b0163c929f5a9d641c469987a79c6ef78a809",
+      "loader": "0.1.21",
+      "description": "HUD personalizável, minimapa e lista do Tab."
     }
   ],
   "test": {
     "mods": [
-      {
-        "id": "hud",
-        "modId": "steinhud",
-        "name": "HUD",
-        "file": "HUD.steinmod",
-        "version": "0.1.10-rc.2",
-        "url": "https://github.com/x4vieer/stein-hud/releases/download/v0.1.10-rc.2/HUD.steinmod",
-        "sha256": "f7491bbafad79f975b7f8099c11dce1b5651eedc0ef9e90862139bf40c9a91f3",
-        "loader": "0.1.21",
-        "description": "HUD personalizável, minimapa e lista do Tab."
-      },
       {
         "id": "connect",
         "modId": "steinconnect",
