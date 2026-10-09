@@ -2,7 +2,7 @@
   "discord": "https://discord.gg/MEHE9b5bjj",
   "servers": [],
   "latest": {
-    "version": "0.1.27",
+    "version": "0.1.28",
     "url": "https://github.com/x4vieer/stein-loader/releases/latest"
   },
   "news": {
@@ -66,11 +66,6 @@
     }
   ],
   "test": {
-    "loader": {
-      "version": "0.1.28",
-      "tag": "v0.1.28-rc.3",
-      "url": "https://github.com/x4vieer/stein-loader/releases/tag/v0.1.28-rc.3"
-    },
     "mods": [
       {
         "id": "combat",
