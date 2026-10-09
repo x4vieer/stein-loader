@@ -58,26 +58,15 @@
       "modId": "steincombat",
       "name": "Combat",
       "file": "Combat.steinmod",
-      "version": "0.1.17",
-      "url": "https://github.com/x4vieer/stein-combat/releases/download/v0.1.17/Combat.steinmod",
-      "sha256": "8896297f94a631c3bf5488807c5e616bdc4f198db0e758495bca6964bf94394f",
-      "loader": "0.1.20",
-      "description": "Aliados e inimigos por nick, clã ou URL; esconder o meu clã na tela."
+      "version": "0.1.18",
+      "url": "https://github.com/x4vieer/stein-combat/releases/download/v0.1.18/Combat.steinmod",
+      "sha256": "ad0477184231d5c1edb15b5ea37f5496474d55cda202074557f9355620766ec3",
+      "loader": "0.1.22",
+      "description": "Aliados e clãs, automações de armadura e efeitos, e movimentação para PvP."
     }
   ],
   "test": {
     "mods": [
-      {
-        "id": "combat",
-        "modId": "steincombat",
-        "name": "Combat",
-        "file": "Combat.steinmod",
-        "version": "0.1.18-rc.2",
-        "url": "https://github.com/x4vieer/stein-combat/releases/download/v0.1.18-rc.2/Combat.steinmod",
-        "sha256": "2de824bb7f1e05c3582dfc0691909615ca8c61f73193598b112c83362df686aa",
-        "loader": "0.1.22",
-        "description": "Aliados e clãs, automações de armadura e efeitos, e movimentação para PvP."
-      },
       {
         "id": "hud",
         "modId": "steinhud",
